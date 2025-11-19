@@ -83,7 +83,7 @@ function calculateDiscountedPrice(originalPrice, discountPercentage) {
 }
 
 
-//OR you can call the functions and test them with console.log()
+//you can also call the functions and test them with console.log()
 //console.log("calculated tax is:" + calculateTax(100));
 //console.log("The text in uppercase is: " + convertToUpperCase("hello"));
 //console.log("The largest number is: " + findMaximum(89, 1204));
