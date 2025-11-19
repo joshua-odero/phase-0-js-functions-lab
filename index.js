@@ -83,12 +83,12 @@ function calculateDiscountedPrice(originalPrice, discountPercentage) {
 }
 
 
-//you can call the functions and test them with console.log()
-console.log("calculated tax is:" + calculateTax(100));
-console.log("The text in uppercase is: " + convertToUpperCase("hello"));
-console.log("The largest number is: " + findMaximum(89, 1204));
-console.log("Is the word a palindrome?: " + isPalindrome("racecar"));
-console.log("The discounted price is: " + calculateDiscountedPrice(100, 40));
+//OR you can call the functions and test them with console.log()
+//console.log("calculated tax is:" + calculateTax(100));
+//console.log("The text in uppercase is: " + convertToUpperCase("hello"));
+//console.log("The largest number is: " + findMaximum(89, 1204));
+//console.log("Is the word a palindrome?: " + isPalindrome("racecar"));
+//console.log("The discounted price is: " + calculateDiscountedPrice(100, 40));
 
 
 // This is required for the test to function properly  
